@@ -1,0 +1,2 @@
+# ClassSense-Automated-Classroom-Occupancy-Monitoring-and-Allocation-System-with-IoT-Integration
+Optimizes educational space usage through real-time occupancy monitoring. Integrates sensors and communication for efficient classroom allocation, minimizing waste, and enhancing scheduling. Enhances learning, reduces energy consumption, and offers a practical, data-driven solution for modern educational needs.
